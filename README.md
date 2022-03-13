@@ -11,4 +11,4 @@ I know many languages including:<br>
 - and a little bit of Arduino<br><br>
 
 <h3>My Stats</h3>
-[![AlexDev404's Github Stats](https://github-readme-stats.vercel.app/api?username=Array0x&show_icons=true&theme=slateorange)
+[![AlexDev404's Github Stats](https://github-readme-stats.vercel.app/api?username=alexdev404&show_icons=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
