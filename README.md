@@ -10,5 +10,11 @@ I know many languages including:<br>
 - Docker<br>
 - and a little bit of Arduino<br><br>
 
-<h3>My Stats</h3>
-[![AlexDev404's Github Stats](https://github-readme-stats.vercel.app/api?username=alexdev404&show_icons=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+<h3>My Stats</h3><br>
+
+- Contributed in over `50` OSS Projects<br>
+- Owned `2` Hosting Services<br><br>
+
+<h3>What am I doing now</h3>
+- Working on FortTime<br>
+- Learning Assembly
