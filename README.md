@@ -16,5 +16,5 @@ I know many languages including:<br>
 - Owned `2` Hosting Services<br><br>
 
 <h3>What am I doing now</h3>
-- Working on FortTime<br>
+- Working on FortTime and Blaze <br>
 - Learning Assembly
